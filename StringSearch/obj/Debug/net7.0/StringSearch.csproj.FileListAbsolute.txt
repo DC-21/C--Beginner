@@ -1,0 +1,14 @@
+/home/dice/Videos/c# code/StringSearch/bin/Debug/net7.0/StringSearch
+/home/dice/Videos/c# code/StringSearch/bin/Debug/net7.0/StringSearch.deps.json
+/home/dice/Videos/c# code/StringSearch/bin/Debug/net7.0/StringSearch.runtimeconfig.json
+/home/dice/Videos/c# code/StringSearch/bin/Debug/net7.0/StringSearch.dll
+/home/dice/Videos/c# code/StringSearch/bin/Debug/net7.0/StringSearch.pdb
+/home/dice/Videos/c# code/StringSearch/obj/Debug/net7.0/StringSearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/dice/Videos/c# code/StringSearch/obj/Debug/net7.0/StringSearch.AssemblyInfoInputs.cache
+/home/dice/Videos/c# code/StringSearch/obj/Debug/net7.0/StringSearch.AssemblyInfo.cs
+/home/dice/Videos/c# code/StringSearch/obj/Debug/net7.0/StringSearch.csproj.CoreCompileInputs.cache
+/home/dice/Videos/c# code/StringSearch/obj/Debug/net7.0/StringSearch.dll
+/home/dice/Videos/c# code/StringSearch/obj/Debug/net7.0/refint/StringSearch.dll
+/home/dice/Videos/c# code/StringSearch/obj/Debug/net7.0/StringSearch.pdb
+/home/dice/Videos/c# code/StringSearch/obj/Debug/net7.0/StringSearch.genruntimeconfig.cache
+/home/dice/Videos/c# code/StringSearch/obj/Debug/net7.0/ref/StringSearch.dll

@@ -1,0 +1,14 @@
+/home/dice/Videos/c# code/CmdArgs/bin/Debug/net7.0/CmdArgs
+/home/dice/Videos/c# code/CmdArgs/bin/Debug/net7.0/CmdArgs.deps.json
+/home/dice/Videos/c# code/CmdArgs/bin/Debug/net7.0/CmdArgs.runtimeconfig.json
+/home/dice/Videos/c# code/CmdArgs/bin/Debug/net7.0/CmdArgs.dll
+/home/dice/Videos/c# code/CmdArgs/bin/Debug/net7.0/CmdArgs.pdb
+/home/dice/Videos/c# code/CmdArgs/obj/Debug/net7.0/CmdArgs.GeneratedMSBuildEditorConfig.editorconfig
+/home/dice/Videos/c# code/CmdArgs/obj/Debug/net7.0/CmdArgs.AssemblyInfoInputs.cache
+/home/dice/Videos/c# code/CmdArgs/obj/Debug/net7.0/CmdArgs.AssemblyInfo.cs
+/home/dice/Videos/c# code/CmdArgs/obj/Debug/net7.0/CmdArgs.csproj.CoreCompileInputs.cache
+/home/dice/Videos/c# code/CmdArgs/obj/Debug/net7.0/CmdArgs.dll
+/home/dice/Videos/c# code/CmdArgs/obj/Debug/net7.0/refint/CmdArgs.dll
+/home/dice/Videos/c# code/CmdArgs/obj/Debug/net7.0/CmdArgs.pdb
+/home/dice/Videos/c# code/CmdArgs/obj/Debug/net7.0/CmdArgs.genruntimeconfig.cache
+/home/dice/Videos/c# code/CmdArgs/obj/Debug/net7.0/ref/CmdArgs.dll

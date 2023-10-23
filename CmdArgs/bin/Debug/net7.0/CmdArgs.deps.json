@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CmdArgs/1.0.0": {
+        "runtime": {
+          "CmdArgs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CmdArgs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

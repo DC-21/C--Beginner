@@ -1,0 +1,14 @@
+/home/dice/Videos/c# code/Hello/bin/Debug/net7.0/Hello
+/home/dice/Videos/c# code/Hello/bin/Debug/net7.0/Hello.deps.json
+/home/dice/Videos/c# code/Hello/bin/Debug/net7.0/Hello.runtimeconfig.json
+/home/dice/Videos/c# code/Hello/bin/Debug/net7.0/Hello.dll
+/home/dice/Videos/c# code/Hello/bin/Debug/net7.0/Hello.pdb
+/home/dice/Videos/c# code/Hello/obj/Debug/net7.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/dice/Videos/c# code/Hello/obj/Debug/net7.0/Hello.AssemblyInfoInputs.cache
+/home/dice/Videos/c# code/Hello/obj/Debug/net7.0/Hello.AssemblyInfo.cs
+/home/dice/Videos/c# code/Hello/obj/Debug/net7.0/Hello.csproj.CoreCompileInputs.cache
+/home/dice/Videos/c# code/Hello/obj/Debug/net7.0/Hello.dll
+/home/dice/Videos/c# code/Hello/obj/Debug/net7.0/refint/Hello.dll
+/home/dice/Videos/c# code/Hello/obj/Debug/net7.0/Hello.pdb
+/home/dice/Videos/c# code/Hello/obj/Debug/net7.0/Hello.genruntimeconfig.cache
+/home/dice/Videos/c# code/Hello/obj/Debug/net7.0/ref/Hello.dll

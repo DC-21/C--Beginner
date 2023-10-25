@@ -1,0 +1,14 @@
+/home/dice/Videos/c#_code/method_challenge/obj/Debug/net7.0/method_challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/dice/Videos/c#_code/method_challenge/obj/Debug/net7.0/method_challenge.AssemblyInfoInputs.cache
+/home/dice/Videos/c#_code/method_challenge/obj/Debug/net7.0/method_challenge.AssemblyInfo.cs
+/home/dice/Videos/c#_code/method_challenge/obj/Debug/net7.0/method_challenge.csproj.CoreCompileInputs.cache
+/home/dice/Videos/c#_code/method_challenge/bin/Debug/net7.0/method_challenge
+/home/dice/Videos/c#_code/method_challenge/bin/Debug/net7.0/method_challenge.deps.json
+/home/dice/Videos/c#_code/method_challenge/bin/Debug/net7.0/method_challenge.runtimeconfig.json
+/home/dice/Videos/c#_code/method_challenge/bin/Debug/net7.0/method_challenge.dll
+/home/dice/Videos/c#_code/method_challenge/bin/Debug/net7.0/method_challenge.pdb
+/home/dice/Videos/c#_code/method_challenge/obj/Debug/net7.0/method_challenge.dll
+/home/dice/Videos/c#_code/method_challenge/obj/Debug/net7.0/refint/method_challenge.dll
+/home/dice/Videos/c#_code/method_challenge/obj/Debug/net7.0/method_challenge.pdb
+/home/dice/Videos/c#_code/method_challenge/obj/Debug/net7.0/method_challenge.genruntimeconfig.cache
+/home/dice/Videos/c#_code/method_challenge/obj/Debug/net7.0/ref/method_challenge.dll

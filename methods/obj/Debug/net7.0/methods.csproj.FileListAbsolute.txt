@@ -1,0 +1,14 @@
+/home/dice/Videos/c#_code/methods/bin/Debug/net7.0/methods
+/home/dice/Videos/c#_code/methods/bin/Debug/net7.0/methods.deps.json
+/home/dice/Videos/c#_code/methods/bin/Debug/net7.0/methods.runtimeconfig.json
+/home/dice/Videos/c#_code/methods/bin/Debug/net7.0/methods.dll
+/home/dice/Videos/c#_code/methods/bin/Debug/net7.0/methods.pdb
+/home/dice/Videos/c#_code/methods/obj/Debug/net7.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/dice/Videos/c#_code/methods/obj/Debug/net7.0/methods.AssemblyInfoInputs.cache
+/home/dice/Videos/c#_code/methods/obj/Debug/net7.0/methods.AssemblyInfo.cs
+/home/dice/Videos/c#_code/methods/obj/Debug/net7.0/methods.csproj.CoreCompileInputs.cache
+/home/dice/Videos/c#_code/methods/obj/Debug/net7.0/methods.dll
+/home/dice/Videos/c#_code/methods/obj/Debug/net7.0/refint/methods.dll
+/home/dice/Videos/c#_code/methods/obj/Debug/net7.0/methods.pdb
+/home/dice/Videos/c#_code/methods/obj/Debug/net7.0/methods.genruntimeconfig.cache
+/home/dice/Videos/c#_code/methods/obj/Debug/net7.0/ref/methods.dll

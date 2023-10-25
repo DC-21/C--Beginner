@@ -1,0 +1,14 @@
+/home/dice/Videos/c#_code/conditional_statements/obj/Debug/net7.0/conditional_statements.GeneratedMSBuildEditorConfig.editorconfig
+/home/dice/Videos/c#_code/conditional_statements/obj/Debug/net7.0/conditional_statements.AssemblyInfoInputs.cache
+/home/dice/Videos/c#_code/conditional_statements/obj/Debug/net7.0/conditional_statements.AssemblyInfo.cs
+/home/dice/Videos/c#_code/conditional_statements/obj/Debug/net7.0/conditional_statements.csproj.CoreCompileInputs.cache
+/home/dice/Videos/c#_code/conditional_statements/bin/Debug/net7.0/conditional_statements
+/home/dice/Videos/c#_code/conditional_statements/bin/Debug/net7.0/conditional_statements.deps.json
+/home/dice/Videos/c#_code/conditional_statements/bin/Debug/net7.0/conditional_statements.runtimeconfig.json
+/home/dice/Videos/c#_code/conditional_statements/bin/Debug/net7.0/conditional_statements.dll
+/home/dice/Videos/c#_code/conditional_statements/bin/Debug/net7.0/conditional_statements.pdb
+/home/dice/Videos/c#_code/conditional_statements/obj/Debug/net7.0/conditional_statements.dll
+/home/dice/Videos/c#_code/conditional_statements/obj/Debug/net7.0/refint/conditional_statements.dll
+/home/dice/Videos/c#_code/conditional_statements/obj/Debug/net7.0/conditional_statements.pdb
+/home/dice/Videos/c#_code/conditional_statements/obj/Debug/net7.0/conditional_statements.genruntimeconfig.cache
+/home/dice/Videos/c#_code/conditional_statements/obj/Debug/net7.0/ref/conditional_statements.dll

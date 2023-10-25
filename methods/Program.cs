@@ -19,3 +19,12 @@ string name = "chola";
 Console.WriteLine(number);
 Console.WriteLine();
 Console.WriteLine(name);
+
+Random troi = new Random();
+int roll1 = troi.Next();
+int roll2 = troi.Next(10);
+int roll3 = troi.Next(20,30);
+
+Console.WriteLine($"first roll: {roll1}");
+Console.WriteLine($"second roll: {roll2}");
+Console.WriteLine($"third roll: {roll3}");

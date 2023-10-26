@@ -1,0 +1,14 @@
+/home/dice/Videos/c#_code/arrays/obj/Debug/net7.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/dice/Videos/c#_code/arrays/obj/Debug/net7.0/arrays.AssemblyInfoInputs.cache
+/home/dice/Videos/c#_code/arrays/obj/Debug/net7.0/arrays.AssemblyInfo.cs
+/home/dice/Videos/c#_code/arrays/obj/Debug/net7.0/arrays.csproj.CoreCompileInputs.cache
+/home/dice/Videos/c#_code/arrays/bin/Debug/net7.0/arrays
+/home/dice/Videos/c#_code/arrays/bin/Debug/net7.0/arrays.deps.json
+/home/dice/Videos/c#_code/arrays/bin/Debug/net7.0/arrays.runtimeconfig.json
+/home/dice/Videos/c#_code/arrays/bin/Debug/net7.0/arrays.dll
+/home/dice/Videos/c#_code/arrays/bin/Debug/net7.0/arrays.pdb
+/home/dice/Videos/c#_code/arrays/obj/Debug/net7.0/arrays.dll
+/home/dice/Videos/c#_code/arrays/obj/Debug/net7.0/refint/arrays.dll
+/home/dice/Videos/c#_code/arrays/obj/Debug/net7.0/arrays.pdb
+/home/dice/Videos/c#_code/arrays/obj/Debug/net7.0/arrays.genruntimeconfig.cache
+/home/dice/Videos/c#_code/arrays/obj/Debug/net7.0/ref/arrays.dll

@@ -1,0 +1,14 @@
+/home/dice/Videos/c#_code/aall_arrays/challenge/obj/Debug/net7.0/challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/dice/Videos/c#_code/aall_arrays/challenge/obj/Debug/net7.0/challenge.AssemblyInfoInputs.cache
+/home/dice/Videos/c#_code/aall_arrays/challenge/obj/Debug/net7.0/challenge.AssemblyInfo.cs
+/home/dice/Videos/c#_code/aall_arrays/challenge/obj/Debug/net7.0/challenge.csproj.CoreCompileInputs.cache
+/home/dice/Videos/c#_code/aall_arrays/challenge/bin/Debug/net7.0/challenge
+/home/dice/Videos/c#_code/aall_arrays/challenge/bin/Debug/net7.0/challenge.deps.json
+/home/dice/Videos/c#_code/aall_arrays/challenge/bin/Debug/net7.0/challenge.runtimeconfig.json
+/home/dice/Videos/c#_code/aall_arrays/challenge/bin/Debug/net7.0/challenge.dll
+/home/dice/Videos/c#_code/aall_arrays/challenge/bin/Debug/net7.0/challenge.pdb
+/home/dice/Videos/c#_code/aall_arrays/challenge/obj/Debug/net7.0/challenge.dll
+/home/dice/Videos/c#_code/aall_arrays/challenge/obj/Debug/net7.0/refint/challenge.dll
+/home/dice/Videos/c#_code/aall_arrays/challenge/obj/Debug/net7.0/challenge.pdb
+/home/dice/Videos/c#_code/aall_arrays/challenge/obj/Debug/net7.0/challenge.genruntimeconfig.cache
+/home/dice/Videos/c#_code/aall_arrays/challenge/obj/Debug/net7.0/ref/challenge.dll

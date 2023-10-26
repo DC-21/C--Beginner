@@ -1,0 +1,14 @@
+/home/dice/Videos/c#_code/comments/bin/Debug/net7.0/comments
+/home/dice/Videos/c#_code/comments/bin/Debug/net7.0/comments.deps.json
+/home/dice/Videos/c#_code/comments/bin/Debug/net7.0/comments.runtimeconfig.json
+/home/dice/Videos/c#_code/comments/bin/Debug/net7.0/comments.dll
+/home/dice/Videos/c#_code/comments/bin/Debug/net7.0/comments.pdb
+/home/dice/Videos/c#_code/comments/obj/Debug/net7.0/comments.GeneratedMSBuildEditorConfig.editorconfig
+/home/dice/Videos/c#_code/comments/obj/Debug/net7.0/comments.AssemblyInfoInputs.cache
+/home/dice/Videos/c#_code/comments/obj/Debug/net7.0/comments.AssemblyInfo.cs
+/home/dice/Videos/c#_code/comments/obj/Debug/net7.0/comments.csproj.CoreCompileInputs.cache
+/home/dice/Videos/c#_code/comments/obj/Debug/net7.0/comments.dll
+/home/dice/Videos/c#_code/comments/obj/Debug/net7.0/refint/comments.dll
+/home/dice/Videos/c#_code/comments/obj/Debug/net7.0/comments.pdb
+/home/dice/Videos/c#_code/comments/obj/Debug/net7.0/comments.genruntimeconfig.cache
+/home/dice/Videos/c#_code/comments/obj/Debug/net7.0/ref/comments.dll

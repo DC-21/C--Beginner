@@ -1,9 +1,9 @@
-﻿string[] names = {"B123","C234","A345","C15","B177","G3003","C235","B179"};
+﻿string[] ids = {"B123","C234","A345","C15","B177","G3003","C235","B179"};
 
-foreach(var name in names)
+foreach(string id in ids)
 {
-    if(name.StartsWith("B"))
+    if(id.StartsWith("B"))
     {
-        Console.WriteLine(name);
+        Console.WriteLine(id);
     }
 }

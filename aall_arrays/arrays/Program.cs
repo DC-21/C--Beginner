@@ -18,3 +18,6 @@ Console.WriteLine($"First: {fraudulentOrderIDs[2]}");
 //reassign values
 fraudulentOrderIDs[0]="2100DiCE";
 Console.WriteLine($"Reassigned value: {fraudulentOrderIDs[0]}");
+
+//finding length of an array
+Console.WriteLine($"There are {fraudulentOrderIDs.Length} fraudulent orders in the array");

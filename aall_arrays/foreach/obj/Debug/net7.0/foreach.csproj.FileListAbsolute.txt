@@ -1,0 +1,14 @@
+/home/dice/Videos/c#_code/aall_arrays/foreach/obj/Debug/net7.0/foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/dice/Videos/c#_code/aall_arrays/foreach/obj/Debug/net7.0/foreach.AssemblyInfoInputs.cache
+/home/dice/Videos/c#_code/aall_arrays/foreach/obj/Debug/net7.0/foreach.AssemblyInfo.cs
+/home/dice/Videos/c#_code/aall_arrays/foreach/obj/Debug/net7.0/foreach.csproj.CoreCompileInputs.cache
+/home/dice/Videos/c#_code/aall_arrays/foreach/bin/Debug/net7.0/foreach
+/home/dice/Videos/c#_code/aall_arrays/foreach/bin/Debug/net7.0/foreach.deps.json
+/home/dice/Videos/c#_code/aall_arrays/foreach/bin/Debug/net7.0/foreach.runtimeconfig.json
+/home/dice/Videos/c#_code/aall_arrays/foreach/bin/Debug/net7.0/foreach.dll
+/home/dice/Videos/c#_code/aall_arrays/foreach/bin/Debug/net7.0/foreach.pdb
+/home/dice/Videos/c#_code/aall_arrays/foreach/obj/Debug/net7.0/foreach.dll
+/home/dice/Videos/c#_code/aall_arrays/foreach/obj/Debug/net7.0/refint/foreach.dll
+/home/dice/Videos/c#_code/aall_arrays/foreach/obj/Debug/net7.0/foreach.pdb
+/home/dice/Videos/c#_code/aall_arrays/foreach/obj/Debug/net7.0/foreach.genruntimeconfig.cache
+/home/dice/Videos/c#_code/aall_arrays/foreach/obj/Debug/net7.0/ref/foreach.dll

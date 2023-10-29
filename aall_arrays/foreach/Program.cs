@@ -17,3 +17,14 @@ foreach(int item in inventory)
     Console.WriteLine($"bin {bin} = {item} items running  (Running total: {sum})");
 };
 Console.WriteLine($"we have {sum} items in inventory");
+
+int[] inv = {1,2,3,4,5,6,7,8,9};
+int sam = 0;
+int bid = 0;
+foreach(int i in inv)
+{
+    sam+=i;
+    bid++;
+    Console.WriteLine($"bid {bid} = {i} running items, (Running total: {sam})");
+}
+Console.WriteLine($"we have {sam} in in");

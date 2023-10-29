@@ -7,3 +7,10 @@ foreach(string id in ids)
         Console.WriteLine(id);
     }
 }
+
+string[] chin = {"dd","db","gb"};
+foreach(string o in chin)
+{
+    if(o.StartsWith("d"))
+    {Console.WriteLine(o);}
+}
